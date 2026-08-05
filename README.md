@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dech8707-netizen/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dech8707-netizen/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/dech8707-netizen/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -13,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dech8707-netizen/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dech8707-netizen/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
